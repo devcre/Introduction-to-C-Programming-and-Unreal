@@ -19,3 +19,8 @@ Coursera
 부동 소수점 데이터 타입과 형변환, 문서 읽기와 문제 검색에 대한 중요성
 1. PrintPercent : 언리얼엔진에서 output log에 몇퍼센트인지 띄우기
 2. Exercise6 : sinf, cosf 관련 문서를 이용해서 sin, cos 함수 사용해보기
+
+- Day5
+부동 소수점 데이터 타입2(float과 int의 데이터 손실)
+1. Exercise7 : 언리얼엔진에서 output log에 섭씨온도와 화씨온도 변환 수치 띄우기
+2. Programming Assgnment2 : 두 점 사이의 거리와 수평축으로부터의 각도(피타고라스의 정리, 삼각법과 극좌표계)
